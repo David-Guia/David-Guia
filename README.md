@@ -1,7 +1,13 @@
 <h1 align="center">Salut 👋, je suis David</h1>
 <h3 align="center">Internaute à louer</h3>
 
-<p align="left"> <a href="https://twitter.com/davidguia_me" target="blank"><img src="https://img.shields.io/twitter/follow/davidguia_me?logo=twitter&style=for-the-badge" alt="davidguia_me" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/davidguia_me" target="blank"><img src="https://img.shields.io/twitter/follow/davidguia_me?logo=twitter&style=for-the-badge" alt="davidguia_me" /></a>
+  <a href="https://open.spotify.com/playlist/1lkC6WbUSAYA8Fb7kchjGK?si=57864d758b8b49dd" target="blank"><img src="https://img.shields.io/badge/SPOTIFY-Ma%20Playlist-lightgrey?style=for-the-badge&logo=Spotify&logoColor=white&labelColor=1ED760"/></a>
+  <a href="https://medium.com/@davidguia.me" target="blank"><img src="https://img.shields.io/badge/Medium-11%20Articles-lightgrey?style=for-the-badge&logo=medium&logoColor=white&labelColor=252120" alt="davidguia_me" /></a>
+ <a href="https://medium.com/@davidguia.me" target="blank"><img src="https://img.shields.io/badge/Actuellement-En%20Ligne-brightgreen?style=for-the-badge"/></a>
+
+</p>
 
 - 🔭 Je travaille actuellement sur [DEUX MILLE VINS](https://2millevins.fr)
 
