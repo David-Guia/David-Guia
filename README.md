@@ -21,6 +21,11 @@
 
 - ⚡ Fun fact **J'adore le café**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- ✍️ Le commerce sous COVID [Article Medium](https://medium.com/@davidguia.me/le-commerce-sous-covid-19-70f74940809b)
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/davidguia_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidguia_me" height="30" width="40" /></a>
@@ -28,6 +33,7 @@
 <a href="https://fb.com/davidguia.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidguia.me" height="30" width="40" /></a>
 <a href="https://instagram.com/davidguia.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidguia.me" height="30" width="40" /></a>
 <a href="https://medium.com/@davidguia.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidguia.me" height="30" width="40" /></a>
+<a href="/https://korben.info/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@davidguia.me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
