@@ -13,15 +13,15 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/david-guia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/davidguia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://twitter.com/davidguia_me" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/david-guia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/davidguia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Développeur web fullstack passionné, créant des applications web robustes et évolutives. Compétent à la fois en technologies front-end et back-end, avec un sens aigu de l'expérience utilisateur et de l'optimisation des performances.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Développe un Pokédex avec React**
-- 🌱 I'm currently learning: **📚 J’explore le langage Swift**
-- 💬 Ask me about: **💡Langage Web, Shortcuts Apple **
+- 💼 Je travaille actuellement sur: **💻 Développe un Pokédex avec React**
+- 🌱 J'apprends sur le sujet: **📚 J’explore le langage Swift**
+- 💬 Échangeons sur: **💡Langage Web, Shortcuts Apple **
 - ⚡ Fun fact: **🕖 Toujours trop en avance !**
 - 📝 Blog: **<a href="👨‍💻 davidguia.me" target="_blank">👨‍💻 davidguia.me</a>**
 
